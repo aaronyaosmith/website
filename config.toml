@@ -4,7 +4,8 @@ title = "Aaron Yao-Smith"
 theme = "saito-boilerplate"
 
 canonifyurls = true
-paginate = 3
+# paginate = 3
+hasCJKLanguage = true
 # publishDir = "docs" # if you use GitHub to deploy
 # disqusShortname = "yourdisqusshortname"
 googleAnalytics = "UA-120521681-2"
@@ -51,7 +52,7 @@ googleAnalytics = "UA-120521681-2"
 
 # Add footer contents here
 [[params.footer]]
-    name = ""
+    name = "address"
     url = false
 [[params.footer]]
     name = "aaron@aaronyaosmith.com"
