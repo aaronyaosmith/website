@@ -1,59 +1,37 @@
 baseurl = "http://aaronyaosmith.github.com"
+builddrafts = true
 languageCode = "en-us"
 title = "Aaron Yao-Smith"
-theme = "saito-boilerplate"
-
+theme = "hugo-goa"
+author = "Aaron Yao-Smith"
 canonifyurls = true
-# paginate = 3
-hasCJKLanguage = true
-# publishDir = "docs" # if you use GitHub to deploy
-# disqusShortname = "yourdisqusshortname"
 googleAnalytics = "UA-120521681-2"
 
 [params]
+    author = "Aaron Yao-Smith"
+    intro = "Cornell University"
+    description = "hi I'm Aaron nice to meet you"
+    authorimage = "headshot.jpg"
+    dateformat = "Jan 2, 2006"
+    
+[params.meta]
     description = "Aaron Yao-Smith"
-    keywords = "Aaron, Yao-Smith"
-    images = [""]
+    keywords = "Aaron, Yao-Smith, Cornell, developer"
 
-[author]
-    name = "Aaron Yao-Smith"
-
-[social]
-    twitter = ""
-    facebook = ""
-    facebook_admin = ""
-    linkedin = "aaronyaosmith"
-    instagram = ""
-    googleplus = ""
+[params.social]
     github = "aaronyaosmith"
-    gitlab = ""
-    pinterest = ""
-    tumblr = ""
-    vimeo = ""
-    youtube = ""
+    linkedin = "aaronyaosmith"
+    email = "aaron@aaronyaosmith.com"
 
-# if you want markdown WYSIWYG line break
-[blackfriday]
-    extensions = ["hardLineBreak"]
-
-# main menu
-[[menu.main]]
-    name = "About"
-    url = "/about/"
+[params.extra]
+    copyright = "© 2018. Aaron Yao-Smith. All Rights Reserved."
+    poweredby = true
+    
+#[[menu.main]]
+#    name = "blog"
+#    url = "/blog/"
     weight = 1
 [[menu.main]]
-    name = "Works"
-    url = "/works-index/"
+    name = "about"
+    url = "/about/"
     weight = 2
-[[menu.main]]
-    name = "Blog"
-    url = "/blog/"
-    weight = 3
-
-# Add footer contents here
-[[params.footer]]
-    name = "address"
-    url = false
-[[params.footer]]
-    name = "aaron@aaronyaosmith.com"
-    url = "mailto:"
