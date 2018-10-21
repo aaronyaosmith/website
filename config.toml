@@ -11,7 +11,7 @@ enableRobotsTXT = true
 [params]
     author = "Aaron Yao-Smith"
     intro = "Cornell University"
-    description = "aaron -at- aaronyaosmith -dot- com\n\nResearch assistant (part-time), [Singer Group](https://www.singerlab.website/)\n\n[Department of Biostatistics and Computational Biology](https://www.dana-farber.org/research/departments-centers-and-labs/departments-and-centers/department-of-biostatistics-and-computational-biology/), [Dana-Farber Cancer Institute](https://www.dana-farber.org/)"
+    description = "Research assistant (part-time), [Singer Group](https://www.singerlab.website/)\n\n[Department of Biostatistics and Computational Biology](https://www.dana-farber.org/research/departments-centers-and-labs/departments-and-centers/department-of-biostatistics-and-computational-biology/), [Dana-Farber Cancer Institute](https://www.dana-farber.org/)\n\naaron -at- aaronyaosmith -dot- com\n\n(607) 288-2756"
     authorimage = "headshot.jpg"
     dateformat = "Jan 2, 2006"
     
