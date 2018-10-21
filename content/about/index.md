@@ -12,7 +12,7 @@ showpagemeta = false
 
 Hi, I'm Aaron.
 
-I'm studying computer science at Cornell, here in lovely Ithaca, NY.
+I'm studying computer science here in lovely Ithaca, NY.
 
 ##### [resume](/resume.pdf)
 ##### [github](https://github.com/aaronyaosmith)
