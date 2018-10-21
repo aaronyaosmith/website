@@ -34,5 +34,5 @@ enableRobotsTXT = true
     weight = 1
 [[menu.main]]
     name = "about"
-    url = "/about/"
+    url = "/about/index.html"
     weight = 2
