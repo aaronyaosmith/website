@@ -18,7 +18,7 @@ enableRobotsTXT = true
     
 [params.meta]
     description = "Aaron Yao-Smith"
-    keywords = "Aaron Yao-Smith, Yao-Smith, Cornell, computer science, 2021, Ithaca, Boston, developer"
+    keywords = "Aaron Yao-Smith, Aaron, Yao-Smith, Yao, Smith, Cornell, computer science, 2021, Ithaca, Boston, developer"
 
 [params.social]
     github = "aaronyaosmith"
