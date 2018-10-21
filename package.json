@@ -1,0 +1,21 @@
+{
+  "name": "website",
+  "version": "1.0.0",
+  "description": "Aaron Yao-Smith's personal website!",
+  "main": "index.js",
+  "scripts": {
+	"server": "hugo server -w -v",
+	"build": "hugo -v",
+	"deploy": "aws s3 sync public/ s3://aaronyaosmith.com-me/ --delete --profile aaronyaosmith.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aaronyaosmith/website.git"
+  },
+  "author": "Aaron Yao-Smith",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aaronyaosmith/website/issues"
+  },
+  "homepage": "https://github.com/aaronyaosmith/website#readme"
+}
