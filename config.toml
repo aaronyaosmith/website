@@ -1,4 +1,5 @@
-baseurl = "http://aaronyaosmith.github.io"
+baseurl = "https://aaronyaosmith.com/"
+uglyurls = true
 builddrafts = true
 languageCode = "en-us"
 title = "Aaron Yao-Smith"
