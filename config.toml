@@ -12,13 +12,13 @@ enableRobotsTXT = true
 [params]
     author = "Aaron Yao-Smith"
     intro = "Cornell University"
-    description = "Research assistant (part-time), [Singer Group](https://www.singerlab.website/)\n\n[Department of Biostatistics and Computational Biology](https://www.dana-farber.org/research/departments-centers-and-labs/departments-and-centers/department-of-biostatistics-and-computational-biology/), [Dana-Farber Cancer Institute](https://www.dana-farber.org/)\n\naaron -at- aaronyaosmith -dot- com\n\n(607) 288-2756"
+    description = "Research assistant (part-time), [Singer Group](https://www.singerlab.website/)\n\n[cBio Center, Dana-Farber Cancer Institute](https://www.dana-farber.org/research/departments-centers-and-labs/departments-and-centers/department-of-biostatistics-and-computational-biology/cbio-center/)\n\n[Department of Biostatistics and Computational Biology, Dana-Farber Cancer Institute](https://www.dana-farber.org/research/departments-centers-and-labs/departments-and-centers/department-of-biostatistics-and-computational-biology/)\n\n[Department of Microbiology and Immunobiology, Harvard Medical School](http://micro.med.harvard.edu/)\n\naaron -at- aaronyaosmith -dot- com\n\n(607) 288-2756"
     authorimage = "headshot.jpg"
     dateformat = "Jan 2, 2006"
     
 [params.meta]
     description = "Aaron Yao-Smith"
-    keywords = "Aaron Yao-Smith, Aaron, Yao-Smith, Yao, Smith, Cornell, computer science, 2021, Ithaca, Boston, developer"
+    keywords = "Aaron Yao-Smith, Aaron, Yao-Smith, Yao, Smith, Yaosmith, Aaron Yaosmith, aaronyaosmith, Cornell, computer science, 2021, Ithaca, Boston, developer"
 
 [params.social]
     github = "aaronyaosmith"
