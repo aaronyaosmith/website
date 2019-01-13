@@ -11,8 +11,8 @@ enableRobotsTXT = true
 
 [params]
     author = "Aaron Yao-Smith"
-    intro = "Cornell University"
-    description = "Research assistant (part-time), [Singer Group](https://www.singerlab.website/)\n\n[cBio Center, Dana-Farber Cancer Institute](https://www.dana-farber.org/research/departments-centers-and-labs/departments-and-centers/department-of-biostatistics-and-computational-biology/cbio-center/)\n\n[Department of Biostatistics and Computational Biology, Dana-Farber Cancer Institute](https://www.dana-farber.org/research/departments-centers-and-labs/departments-and-centers/department-of-biostatistics-and-computational-biology/)\n\n[Department of Microbiology and Immunobiology, Harvard Medical School](http://micro.med.harvard.edu/)\n\naaron -at- aaronyaosmith -dot- com\n\n(607) 288-2756"
+    intro = "Cornell University '21"
+    description = "Research assistant (part-time), [Singer Group](https://www.singerlab.website/)\n\n[cBio Center, Dana-Farber Cancer Institute](https://www.dana-farber.org/research/departments-centers-and-labs/departments-and-centers/department-of-data-sciences/cbio-center/)\n\n[Department of Biostatistics and Computational Biology, Dana-Farber Cancer Institute](https://www.dana-farber.org/research/departments-centers-and-labs/departments-and-centers/department-of-biostatistics-and-computational-biology/)\n\n[Department of Microbiology and Immunobiology, Harvard Medical School](http://micro.med.harvard.edu/)\n\naaron@aaronyaosmith.com\n\n(607) 288-2756\n\n**Resume:** [<u>PDF</u>](/resume.pdf)"
     authorimage = "headshot.jpg"
     dateformat = "Jan 2, 2006"
     
