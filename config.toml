@@ -13,7 +13,7 @@ enableRobotsTXT = true
     author = "Aaron Yao-Smith"
     intro = "Cornell University '21"
     description = "software engineer intern @ [**CoinFund**](https://coinfund.io)\n\naaron@coinfund.io\n\naaron@aaronyaosmith.com\n\n(607) 288-2756\n\n**resume:** [<u>PDF</u>](/resume.pdf)"
-    authorimage = "headshot.jpg"
+    authorimage = ""
     dateformat = "Jan 2, 2006"
     
 [params.meta]
