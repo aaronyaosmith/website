@@ -12,20 +12,20 @@ enableRobotsTXT = true
 [params]
     author = "Aaron Yao-Smith"
     intro = ""
-    description = "computer science // b.s. '21 @ Cornell\n\naaron@aaronyaosmith.com\n\n(607) 288-2756\n\n**resume:** [<u>PDF</u>](/resume.pdf)"
+    description = "software engineer @ Microsoft\n\nb.s. '20 comp sci @ Cornell\n\naaron@aaronyaosmith.com\n\n(607) 288-2756"
     authorimage = ""
     dateformat = "Jan 2, 2006"
     
 [params.meta]
     description = "Aaron Yao-Smith"
-    keywords = "Aaron Yao-Smith, Aaron, Yao-Smith, Yao, Smith, Yaosmith, Aaron Yaosmith, aaronyaosmith, Cornell, computer science, 2021, Ithaca, Boston, developer"
+    keywords = "Aaron Yao-Smith, Aaron, Yao-Smith, Yao, Smith, Yaosmith, Aaron Yaosmith, aaronyaosmith, Cornell, computer science, 2021, Ithaca, Boston, developer, Microsoft, software, engineer, software engineer"
 
 [params.social]
     github = "aaronyaosmith"
     linkedin = "aaronyaosmith"
     
 [params.extra]
-    copyright = "© 2019. Aaron Yao-Smith. All Rights Reserved."
+    copyright = "© 2021. Aaron Yao-Smith. All Rights Reserved."
     poweredby = true
     
 #[[menu.main]]
@@ -34,5 +34,5 @@ enableRobotsTXT = true
     weight = 1
 [[menu.main]]
     name = "about"
-    url = "/about/index.html"
+    url = "/about.html"
     weight = 2

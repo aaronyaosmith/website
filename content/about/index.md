@@ -10,6 +10,6 @@ title = ""
 showpagemeta = false
 +++
 
-Hi, I'm Aaron.
+Hey there! I'm Aaron.
 
-I'm studying computer science here in lovely Ithaca, NY.
+I'm a software engineer at Microsoft. Right here in lovely Redmond, WA.
