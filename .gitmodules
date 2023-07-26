@@ -1,9 +1,0 @@
-[submodule "themes/saito-boilerplate"]
-	path = themes/saito-boilerplate
-	url = https://github.com/hakuoku/saito-boilerplate.git
-[submodule "themes/blank"]
-	path = themes/blank
-	url = https://github.com/vimux/blank
-[submodule "themes/hugo-goa"]
-	path = themes/hugo-goa
-	url = https://github.com/shenoybr/hugo-goa
