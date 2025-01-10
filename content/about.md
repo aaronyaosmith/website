@@ -5,7 +5,7 @@ template = "about.html"
 
 Hello! I'm Aaron.
 
-I'm a software engineer at [Yext][yext] in NYC.
+I'm a software engineer at [Uber][uber] in NYC.
 
 You can contact me at:
 
@@ -14,6 +14,6 @@ You can contact me at:
 - [github][github]
 - [linkedin][linkedin]
 
-[yext]: https://www.yext.com/
+[uber]: https://www.uber.com/
 [github]: https://github.com/aaronyaosmith
 [linkedin]: https://linkedin.com/in/aaronyaosmith
